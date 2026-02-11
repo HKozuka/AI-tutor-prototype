@@ -28,9 +28,12 @@ Product managers need to deeply understand teacher and student needs before arch
 
 - `AI_tutor_prototype.ipynb` – Full implementation with both chatbots
 
-## Run It
+To run:
 
 Open the notebook in Google Colab, add your OpenAI API key, and run. Both chatbots launch in minutes.
+
+---
+
 **My personal OpenAI API key has been omitted for privacy reasons**
 
 ---
