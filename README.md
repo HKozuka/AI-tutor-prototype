@@ -2,12 +2,12 @@
 
 ## What I Built
 
-**Vocabulary Coach** – Conversational AI that teaches K-12 words through understanding, not memorization
+**Vocabulary Coach**: Conversational AI that teaches K-12 words through understanding, not memorization
 - Explains words in kid-friendly language
 - Provides memory tricks and examples
 - Adapts to grade level automatically
 
-**Math Tutor** – Socratic guide for K-12 math problem-solving
+**Math Tutor**: Socratic guide for K-12 math problem-solving
 - Guides students to answers without giving them away
 - Full LaTeX rendering for equations
 - Encourages learning through discovery
